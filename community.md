@@ -8,7 +8,7 @@ permalink: /community/
 # 비교 및 커뮤니티
 {: .no_toc }
 
-이 카테고리에는 **49개의 프롬프트 사례**가 있습니다.
+이 카테고리에는 **49개의 프롬프트 사례**가 있습니다. 각 케이스의 결과 이미지를 클릭하면 [원본 사이트](https://evolink.ai)로 이동합니다.
 
 ## 목차
 {: .no_toc .text-delta }
@@ -22,6 +22,10 @@ permalink: /community/
 
 **작성자**: @chetaslua  ·  [원본 보기](https://x.com/chetaslua/status/2044331451077013749)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case5/output.jpg" alt="Case 5 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -33,6 +37,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 ## Case 10: GPT-Image-2 Detail Showcase  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045000106919997637)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case10/output.jpg" alt="Case 10 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -56,6 +64,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 **작성자**: @saskr_13  ·  [원본 보기](https://x.com/saskr_13/status/2044744396932079934)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case16/output.jpg" alt="Case 16 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -67,6 +79,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 ## Case 23: Silhouette Universe Narrative Poster  (@MrLarus)
 
 **작성자**: @MrLarus  ·  [원본 보기](https://x.com/MrLarus/status/2045418028733538620)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg" alt="Case 23 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -90,6 +106,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 **작성자**: @MANISH1027512  ·  [원본 보기](https://x.com/MANISH1027512/status/2045743158860878312)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case29/output.jpg" alt="Case 29 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -101,6 +121,10 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 ## Case 30: Counter-Strike x Terraria Screenshot Mashup  (@yssrski)
 
 **작성자**: @yssrski  ·  [원본 보기](https://x.com/yssrski/status/2046410519595348397)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case30/output.jpg" alt="Case 30 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -114,6 +138,10 @@ counter strike in game screenshot, mixed with Terraria
 
 **작성자**: @RitaStar1128  ·  [원본 보기](https://x.com/RitaStar1128/status/2046406024303976904)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case31/output.jpg" alt="Case 31 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -126,6 +154,10 @@ counter strike in game screenshot, mixed with Terraria
 
 **작성자**: @MrLarus  ·  [원본 보기](https://x.com/MrLarus/status/2046201836525302032)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case32/output.jpg" alt="Case 32 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -137,6 +169,10 @@ counter strike in game screenshot, mixed with Terraria
 ## Case 33: Multi-Concept Battle Poster Set  (@joshesye)
 
 **작성자**: @joshesye  ·  [원본 보기](https://x.com/joshesye/status/2046493442428039212)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg" alt="Case 33 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -153,6 +189,10 @@ counter strike in game screenshot, mixed with Terraria
 
 **작성자**: @FixlationAI  ·  [원본 보기](https://x.com/FixlationAI/status/2046272578705068476)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case34/output.jpg" alt="Case 34 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -164,6 +204,10 @@ an ingame screenshot of rust
 ## Case 35: Sam Altman Bear Selfie  (@JustinGorya)
 
 **작성자**: @JustinGorya  ·  [원본 보기](https://x.com/JustinGorya/status/2046510831832006970)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg" alt="Case 35 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -179,6 +223,10 @@ Edit prompt: Remove the background make it transparent
 
 **작성자**: @ReYYYYoking  ·  [원본 보기](https://x.com/ReYYYYoking/status/2046502217843376292)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case36/output.jpg" alt="Case 36 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -190,6 +238,10 @@ AmongUsの精密な実際のゲーム画像を生成して
 ## Case 37: Retro Programming Museum Cartoon  (@XiaohuiAI666)
 
 **작성자**: @XiaohuiAI666  ·  [원본 보기](https://x.com/XiaohuiAI666/status/2046515319947354603)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case37/output.jpg" alt="Case 37 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -203,6 +255,10 @@ AmongUsの精密な実際のゲーム画像を生成して
 
 **작성자**: @workingclassbud  ·  [원본 보기](https://x.com/workingclassbud/status/2046506783850815703)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case38/output.jpg" alt="Case 38 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -214,6 +270,10 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 ## Case 39: Sam Altman Baseball Broadcast  (@16kthir0GRXgNqn)
 
 **작성자**: @16kthir0GRXgNqn  ·  [원본 보기](https://x.com/16kthir0GRXgNqn/status/2046507362266259832)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/comparison_case39/output.jpg" alt="Case 39 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -227,6 +287,10 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 **작성자**: @chatcutapp  ·  [원본 보기](https://x.com/chatcutapp/status/2047228386117128475)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case61/output.jpg" alt="Case 40 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -238,6 +302,10 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 ## Case 41: 2020년 가장 중요한 사건  (@Rufus87078959)
 
 **작성자**: @Rufus87078959  ·  [원본 보기](https://x.com/Rufus87078959/status/2047211900769878234)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case65/output.jpg" alt="Case 41 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -251,6 +319,10 @@ Generate an image of the most significant event of 2020
 
 **작성자**: @elliscrosby  ·  [원본 보기](https://x.com/elliscrosby/status/2047211507596071235)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg" alt="Case 42 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -262,6 +334,10 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 ## Case 43: 2001년 가장 중요한 사건  (@Rufus87078959)
 
 **작성자**: @Rufus87078959  ·  [원본 보기](https://x.com/Rufus87078959/status/2047210051216011682)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case67/output.jpg" alt="Case 43 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -275,6 +351,10 @@ Generate an image of the most significant event of 2001
 
 **작성자**: @Rufus87078959  ·  [원본 보기](https://x.com/Rufus87078959/status/2047207923005227078)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case69/output.jpg" alt="Case 44 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -286,6 +366,10 @@ Generate an image of the most significant event of 2025.
 ## Case 45: 개인 프로필 인포그래픽  (@andis13)
 
 **작성자**: @andis13  ·  [원본 보기](https://x.com/andis13/status/2047197275525701937)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case73/output.jpg" alt="Case 45 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -300,6 +384,10 @@ Idea: @icreatelife
 
 **작성자**: @rs_elwood  ·  [원본 보기](https://x.com/rs_elwood/status/2047194375000932456)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case74/output.jpg" alt="Case 46 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -313,6 +401,10 @@ Idea: @icreatelife
 
 **작성자**: @aitorwilzig  ·  [원본 보기](https://x.com/aitorwilzig/status/2047190320064925845)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case76/output.jpg" alt="Case 47 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -324,6 +416,10 @@ Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima
 ## Case 48: LIME 약물 설계 인포그래픽  (@WillSpagnoli)
 
 **작성자**: @WillSpagnoli  ·  [원본 보기](https://x.com/WillSpagnoli/status/2047172976463040851)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg" alt="Case 48 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -337,6 +433,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @laogeai  ·  [원본 보기](https://x.com/laogeai/status/2047228458351120625)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case84/output.jpg" alt="Case 49 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -348,6 +448,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 50: 소셜 앱 매칭 성공 화면  (@songguoxiansen)
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047220490486612450)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case86/output.jpg" alt="Case 50 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -361,6 +465,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047198090009190441)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case91/output.jpg" alt="Case 51 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -373,6 +481,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047196508270084104)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case92/output.jpg" alt="Case 52 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -384,6 +496,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 53: 신중식 미니멀 꽃 일러스트  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2047180347448914195)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg" alt="Case 53 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -421,6 +537,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @nidiedeba  ·  [원본 보기](https://x.com/nidiedeba/status/2047147223281270878)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg" alt="Case 54 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -433,6 +553,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @Aurora_62340  ·  [원본 보기](https://x.com/Aurora_62340/status/2047139992355680530)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg" alt="Case 55 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -444,6 +568,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 56: 지하철 몰래카메라 스냅샷  (@AntCaveClub)
 
 **작성자**: @AntCaveClub  ·  [원본 보기](https://x.com/AntCaveClub/status/2047136306485133428)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case96/output.jpg" alt="Case 56 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -459,6 +587,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047129703702802811)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case97/output.jpg" alt="Case 57 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -470,6 +602,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 58: 무협 여협 세로 초상화  (@CoderDaMing)
 
 **작성자**: @CoderDaMing  ·  [원본 보기](https://x.com/CoderDaMing/status/2047127585256358221)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case98/output.jpg" alt="Case 58 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -483,6 +619,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @Zhaoge01  ·  [원본 보기](https://x.com/Zhaoge01/status/2047123570485260753)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case99/output.jpg" alt="Case 59 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -494,6 +634,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 60: 당나라 장안 원소절 등불 축제 파노라마  (@songguoxiansen)
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047122441454096527)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case100/output.jpg" alt="Case 60 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -507,6 +651,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @Zhaoge01  ·  [원본 보기](https://x.com/Zhaoge01/status/2047110776897638568)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case101/output.jpg" alt="Case 61 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -518,6 +666,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 62: 초현실 일본 미래 도시 일러스트  (@Tresmort)
 
 **작성자**: @Tresmort  ·  [원본 보기](https://x.com/Tresmort/status/2047105322863460496)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg" alt="Case 62 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -531,6 +683,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @sdjn_wgc  ·  [원본 보기](https://x.com/sdjn_wgc/status/2046981757325475954)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case107/output.jpg" alt="Case 63 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -543,6 +699,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @LVWANGJI_0327  ·  [원본 보기](https://x.com/LVWANGJI_0327/status/2046974302227206525)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case108/output.jpg" alt="Case 64 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -554,6 +714,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 65: 동양 판타지 여성 반신 초상화  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2046962895775580442)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg" alt="Case 65 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -577,6 +741,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @zhiyangzhu22222  ·  [원본 보기](https://x.com/zhiyangzhu22222/status/2046952985562062888)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case110/output.jpg" alt="Case 66 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -597,6 +765,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2046952548469530716)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case111/output.jpg" alt="Case 67 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -610,6 +782,10 @@ Research LIME Drug Design and make a detailed infographic about it
 ## Case 68: 박물학 스타일 식품 표본 단면도  (@GeekCatX)
 
 **작성자**: @GeekCatX  ·  [원본 보기](https://x.com/GeekCatX/status/2046939656244318676)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case112/output.jpg" alt="Case 68 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -668,6 +844,10 @@ Research LIME Drug Design and make a detailed infographic about it
 
 **작성자**: @MajaDesignJP  ·  [원본 보기](https://x.com/MajaDesignJP/status/2047235632934928765)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case113/output.jpg" alt="Case 69 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -683,6 +863,10 @@ GPT Image-2で生成したやつ→
 
 **작성자**: @seiiiiiiiiiiru  ·  [원본 보기](https://x.com/seiiiiiiiiiiru/status/2047227021156356500)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case114/output.jpg" alt="Case 70 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -695,6 +879,10 @@ GPT Image-2で生成したやつ→
 
 **작성자**: @os_shim  ·  [원본 보기](https://x.com/os_shim/status/2047130379409400148)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case115/output.jpg" alt="Case 71 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -706,6 +894,10 @@ GPT Image-2で生成したやつ→
 ## Case 72: 러버덕 소년 실사 영화 포스터  (@mirai_ai2050)
 
 **작성자**: @mirai_ai2050  ·  [원본 보기](https://x.com/mirai_ai2050/status/2046944941583270341)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case116/output.jpg" alt="Case 72 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -720,6 +912,10 @@ GPT Image-2で生成したやつ→
 ## Case 73: 토마토 이커머스 상품 이미지 세트  (@Adam38363368936)
 
 **작성자**: @Adam38363368936  ·  [원본 보기](https://x.com/Adam38363368936/status/2047165092253532461)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/case_case117/output.jpg" alt="Case 73 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 

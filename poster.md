@@ -8,7 +8,7 @@ permalink: /poster/
 # 포스터 및 일러스트
 {: .no_toc }
 
-이 카테고리에는 **54개의 프롬프트 사례**가 있습니다.
+이 카테고리에는 **54개의 프롬프트 사례**가 있습니다. 각 케이스의 결과 이미지를 클릭하면 [원본 사이트](https://evolink.ai)로 이동합니다.
 
 ## 목차
 {: .no_toc .text-delta }
@@ -22,6 +22,10 @@ permalink: /poster/
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2045358053831172358)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg" alt="Case 1 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -33,6 +37,10 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 ## Case 2: 빈티지 아말피 여행 포스터  (@WolfRiccardo)
 
 **작성자**: @WolfRiccardo  ·  [원본 보기](https://x.com/WolfRiccardo/status/2044562722491121718)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg" alt="Case 2 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -46,6 +54,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @Panda20230902  ·  [원본 보기](https://x.com/Panda20230902/status/2045396918965285111)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" alt="Case 3 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -57,6 +69,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 4: 중국 미니멀리스트 S자형 포스터  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045368305079447853)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg" alt="Case 4 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -78,6 +94,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045332620352119274)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg" alt="Case 5 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -96,6 +116,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @blanplan  ·  [원본 보기](https://x.com/blanplan/status/2045190582453350748)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg" alt="Case 7 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -107,6 +131,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 8: 미래적 만다라 일러스트  (@4WEB1)
 
 **작성자**: @4WEB1  ·  [원본 보기](https://x.com/4WEB1/status/2045390207072256179)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg" alt="Case 8 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -120,6 +148,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @lilimliliychan  ·  [원본 보기](https://x.com/lilimliliychan/status/2045114760937804187)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg" alt="Case 9 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -131,6 +163,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 10: 브라우저 게임 광고 크리에이티브 포스터  (@llllegend0620)
 
 **작성자**: @llllegend0620  ·  [원본 보기](https://x.com/llllegend0620/status/2045963764466688065)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg" alt="Case 10 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -147,6 +183,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045875219307655337)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg" alt="Case 11 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -158,6 +198,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 12: 먹 곡선 광저우 미학 포스터  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045873940883808523)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg" alt="Case 12 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -171,6 +215,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045772039521542202)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg" alt="Case 13 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -182,6 +230,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 14: 2026년 봄 광저우 홍보 포스터  (@grok)
 
 **작성자**: @grok  ·  [원본 보기](https://x.com/grok/status/2046012437086818395)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg" alt="Case 14 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -195,6 +247,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @Ghhhh3owi  ·  [원본 보기](https://x.com/Ghhhh3owi/status/2045803217251102897)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg" alt="Case 15 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -206,6 +262,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 24: 봄 광저우 도시 포스터  (@alanlovelq)
 
 **작성자**: @alanlovelq  ·  [원본 보기](https://x.com/alanlovelq/status/2045484598487060917)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case24/output.jpg" alt="Case 24 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -225,6 +285,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045506567735558336)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case26/output.jpg" alt="Case 26 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -240,6 +304,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 27: 광저우 종이 오리기 도시 포스터  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2045527750606487877)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case27/output.jpg" alt="Case 27 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -257,6 +325,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 **작성자**: @xpg0970  ·  [원본 보기](https://x.com/xpg0970/status/2045560665071579160)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case28/output.jpg" alt="Case 28 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -268,6 +340,10 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ## Case 31: 몽환적 수채화 에디토리얼 일러스트  (@hmontilla_)
 
 **작성자**: @hmontilla_  ·  [원본 보기](https://x.com/hmontilla_/status/2045513933096636575)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case31/output.jpg" alt="Case 31 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -281,6 +357,10 @@ Ilustración en acuarela de estilo onírico de [sujeto], con estética impresion
 
 **작성자**: @pfanis  ·  [원본 보기](https://x.com/pfanis/status/2046413660147314714)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg" alt="Case 32 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -292,6 +372,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ## Case 33: 서유기 중국 만화  (@overseas58)
 
 **작성자**: @overseas58  ·  [원본 보기](https://x.com/overseas58/status/2046271877577097376)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg" alt="Case 33 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -305,6 +389,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 **작성자**: @MrLarus  ·  [원본 보기](https://x.com/MrLarus/status/2046263153546174935)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg" alt="Case 34 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -316,6 +404,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ## Case 35: 신중국 수묵 풍경 포스터  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2046215276249993720)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg" alt="Case 35 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -329,6 +421,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 **작성자**: @opc_8838  ·  [원본 보기](https://x.com/opc_8838/status/2046162334440448339)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg" alt="Case 36 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -341,6 +437,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 **작성자**: @tebasaki3D  ·  [원본 보기](https://x.com/tebasaki3D/status/2046371076402503709)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg" alt="Case 38 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -352,6 +452,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ## Case 39: 과학 백과사전 인포그래픽  (@MrLarus)
 
 **작성자**: @MrLarus  ·  [원본 보기](https://x.com/MrLarus/status/2046231542817497392)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg" alt="Case 39 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -383,6 +487,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 **작성자**: @seiiiiiiiiiiru  ·  [원본 보기](https://x.com/seiiiiiiiiiiru/status/2046509734954741780)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg" alt="Case 40 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -394,6 +502,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ## Case 41: 제품 광고 리디자인  (@genel_ai)
 
 **작성자**: @genel_ai  ·  [원본 보기](https://x.com/genel_ai/status/2046498264774791514)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg" alt="Case 41 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -407,6 +519,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ## Case 42: 다크 판타지 광저우 도시 포스터  (@liyue_ai)
 
 **작성자**: @liyue_ai  ·  [원본 보기](https://x.com/liyue_ai/status/2046243132774494607)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg" alt="Case 42 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -432,6 +548,10 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 **작성자**: @underwoodxie96  ·  [원본 보기](https://x.com/underwoodxie96/status/2046514205529088501)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg" alt="Case 45 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -443,6 +563,10 @@ Create a Science fiction movie poster
 ## Case 46: 상쾌한 여름 우동 광고  (@genel_ai)
 
 **작성자**: @genel_ai  ·  [원본 보기](https://x.com/genel_ai/status/2046501692246470871)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg" alt="Case 46 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -456,6 +580,10 @@ Create a Science fiction movie poster
 
 **작성자**: @MrLarus  ·  [원본 보기](https://x.com/MrLarus/status/2046514998965371144)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg" alt="Case 47 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -467,6 +595,10 @@ Create a Science fiction movie poster
 ## Case 48: 실리콘밸리 2026 홍보 포스터  (@carsonyungos)
 
 **작성자**: @carsonyungos  ·  [원본 보기](https://x.com/carsonyungos/status/2046523198116889064)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg" alt="Case 48 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -490,6 +622,10 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 **작성자**: @weel_corp  ·  [원본 보기](https://x.com/weel_corp/status/2046514558064586782)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg" alt="Case 49 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -501,6 +637,10 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 ## Case 50: 다크 에픽 컨셉 포스터  (@A9Quant)
 
 **작성자**: @A9Quant  ·  [원본 보기](https://x.com/A9Quant/status/2046224777208361126)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg" alt="Case 50 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -598,6 +738,10 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 **작성자**: @ck_igarashi  ·  [원본 보기](https://x.com/ck_igarashi/status/2046528889124728993)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg" alt="Case 51 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -609,6 +753,10 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 ## Case 52: 6블록 패션 캠페인 프롬프트 공식  (@anacoding)
 
 **작성자**: @anacoding  ·  [원본 보기](https://x.com/anacoding/status/2046904999045628114)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg" alt="Case 52 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -622,6 +770,10 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 **작성자**: @iaPulse_  ·  [원본 보기](https://x.com/iaPulse_/status/2046903739429097660)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg" alt="Case 53 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -633,6 +785,10 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 ## Case 54: 1900 Istiklal Street Panorama Prompt  (@ai_gezgini)
 
 **작성자**: @ai_gezgini  ·  [원본 보기](https://x.com/ai_gezgini/status/2046903631509705030)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg" alt="Case 54 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -650,6 +806,10 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 ## Case 57: Theme Science Encyclopedia Card  (@alanlovelq)
 
 **작성자**: @alanlovelq  ·  [원본 보기](https://x.com/alanlovelq/status/2046378199681257920)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" alt="Case 57 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -681,6 +841,10 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 **작성자**: @Kurt_Rousey466  ·  [원본 보기](https://x.com/Kurt_Rousey466/status/2046267707881029934)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg" alt="Case 55 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -692,6 +856,10 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 ## Case 56: Cinematic Infographic Concept Poster  (@A9Quant)
 
 **작성자**: @A9Quant  ·  [원본 보기](https://x.com/A9Quant/status/2046228485841334559)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg" alt="Case 56 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -779,6 +947,10 @@ AI 必须依据【主题】自动决定最合适的:
 
 **작성자**: @AIwithSarah_  ·  [원본 보기](https://x.com/AIwithSarah_/status/2047234995627172229)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" alt="Case 58 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -790,6 +962,10 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 ## Case 59: 탄산수 전문 제품 사진  (@meng_dagg695)
 
 **작성자**: @meng_dagg695  ·  [원본 보기](https://x.com/meng_dagg695/status/2047227172486824002)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg" alt="Case 59 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -817,6 +993,10 @@ Commercial product photography, ultra-detailed, 8K.
 
 **작성자**: @rs_elwood  ·  [원본 보기](https://x.com/rs_elwood/status/2047192228758692036)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case75/output.jpg" alt="Case 60 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -830,6 +1010,10 @@ Online 360° Panorama Viewer VR
 ## Case 61: 수채화 과슈 동화책 일러스트  (@dotey)
 
 **작성자**: @dotey  ·  [원본 보기](https://x.com/dotey/status/2047174895293849972)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg" alt="Case 61 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -846,6 +1030,10 @@ Two children in calm conversation,soft connection forming.
 ## Case 62: 9:16 세로 비율  (@GeekCatX)
 
 **작성자**: @GeekCatX  ·  [원본 보기](https://x.com/GeekCatX/status/2047220831491858766)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg" alt="Case 62 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -895,6 +1083,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 **작성자**: @BNBOKBt5  ·  [원본 보기](https://x.com/BNBOKBt5/status/2047210189741605082)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg" alt="Case 63 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -906,6 +1098,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ## Case 64: 동방불패 무협 캐릭터 포스터  (@songguoxiansen)
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047204566559756707)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg" alt="Case 64 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -921,6 +1117,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2047201597697245252)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg" alt="Case 65 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -934,6 +1134,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ## Case 66: 서유기 여인국 포스터  (@cj858cjsoul)
 
 **작성자**: @cj858cjsoul  ·  [원본 보기](https://x.com/cj858cjsoul/status/2047103956535697822)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg" alt="Case 66 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -949,6 +1153,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 **작성자**: @caiziboshi  ·  [원본 보기](https://x.com/caiziboshi/status/2047091751731519744)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg" alt="Case 67 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -961,6 +1169,10 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 **작성자**: @verysmallwoods  ·  [원본 보기](https://x.com/verysmallwoods/status/2047033599229137126)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg" alt="Case 68 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -972,6 +1184,10 @@ generate an image of a racing car poster with its spec and pricing
 ## Case 69: 찰리 채플린 제품 포스터 리디자인  (@chenenpei)
 
 **작성자**: @chenenpei  ·  [원본 보기](https://x.com/chenenpei/status/2046985783715025135)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg" alt="Case 69 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 

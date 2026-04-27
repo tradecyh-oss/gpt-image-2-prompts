@@ -8,7 +8,7 @@ permalink: /portrait/
 # 인물 및 사진
 {: .no_toc }
 
-이 카테고리에는 **25개의 프롬프트 사례**가 있습니다.
+이 카테고리에는 **25개의 프롬프트 사례**가 있습니다. 각 케이스의 결과 이미지를 클릭하면 [원본 사이트](https://evolink.ai)로 이동합니다.
 
 ## 목차
 {: .no_toc .text-delta }
@@ -22,6 +22,10 @@ permalink: /portrait/
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2045167461147042202)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg" alt="Case 1 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -33,6 +37,10 @@ permalink: /portrait/
 ## Case 2: 시네마틱 미니멀 인물 사진  (@iam_miharbi)
 
 **작성자**: @iam_miharbi  ·  [원본 보기](https://x.com/iam_miharbi/status/2045151354679665101)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case2/output.jpg" alt="Case 2 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -46,6 +54,10 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2045092449803284923)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case3/output.jpg" alt="Case 3 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -58,6 +70,10 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2045052982728016131)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case4/output.jpg" alt="Case 4 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -69,6 +85,10 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 ## Case 5: 침실 거울 셀카  (@Shinning1010)
 
 **작성자**: @Shinning1010  ·  [원본 보기](https://x.com/Shinning1010/status/2045002808903020962)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case5/output.jpg" alt="Case 5 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -83,6 +103,10 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046115431144902732)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case6/output.jpg" alt="Case 6 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -94,6 +118,10 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ## Case 7: 럭셔리 글램 뷰티 인물 사진  (@patrickassale)
 
 **작성자**: @patrickassale  ·  [원본 보기](https://x.com/patrickassale/status/2044581766309060765)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case7/output.jpg" alt="Case 7 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -107,6 +135,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 **작성자**: @Zoulinshen  ·  [원본 보기](https://x.com/Zoulinshen/status/2045082518089810073)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case8/output.jpg" alt="Case 8 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -118,6 +150,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ## Case 9: 도시 뒤돌아보기 스트리트 인물 사진  (@Tz_2022)
 
 **작성자**: @Tz_2022  ·  [원본 보기](https://x.com/Tz_2022/status/2045892003775361198)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case9/output.jpg" alt="Case 9 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -131,6 +167,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 **작성자**: @Malek1173989  ·  [원본 보기](https://x.com/Malek1173989/status/2045836887684694395)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case10/output.jpg" alt="Case 10 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -142,6 +182,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 ## Case 11: 한국 아이돌 3x3 그리드 인물 사진  (@BubbleBrain)
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046268941941850575)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case11/output.jpg" alt="Case 11 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -155,6 +199,10 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046190539213885806)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case12/output.jpg" alt="Case 12 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -166,6 +214,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ## Case 13: 한국 아이돌 3x3 콜라주 인물 사진  (@BubbleBrain)
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046151898621993364)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case13/output.jpg" alt="Case 13 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -179,6 +231,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046434670724907395)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case14/output.jpg" alt="Case 14 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -190,6 +246,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ## Case 15: 후지필름 딸기 학교 인물 사진  (@BubbleBrain)
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046483268019884384)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case15/output.jpg" alt="Case 15 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -203,6 +263,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046518189509734903)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case16/output.jpg" alt="Case 16 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -214,6 +278,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ## Case 17: 후지필름 커플 인물 사진  (@BubbleBrain)
 
 **작성자**: @BubbleBrain  ·  [원본 보기](https://x.com/BubbleBrain/status/2046502288102170757)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case17/output.jpg" alt="Case 17 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -227,6 +295,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 **작성자**: @80vul  ·  [원본 보기](https://x.com/80vul/status/2046218165961753047)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case18/output.jpg" alt="Case 18 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -238,6 +310,10 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 ## Case 19: 빈티지 신문 1면 디자인  (@Naiknelofar788)
 
 **작성자**: @Naiknelofar788  ·  [원본 보기](https://x.com/Naiknelofar788/status/2047207812800147647)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case70/output.jpg" alt="Case 19 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -268,6 +344,10 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 **작성자**: @andis13  ·  [원본 보기](https://x.com/andis13/status/2047204384811921764)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case71/output.jpg" alt="Case 20 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -279,6 +359,10 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 ## Case 21: 사진 분석 및 JSON Prompt 재현  (@pavellaslov)
 
 **작성자**: @pavellaslov  ·  [원본 보기](https://x.com/pavellaslov/status/2047182214304055339)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case77/output.jpg" alt="Case 21 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -308,6 +392,10 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 **작성자**: @ZaraIrahh  ·  [원본 보기](https://x.com/ZaraIrahh/status/2047180061657452601)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case78/output.jpg" alt="Case 22 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -319,6 +407,10 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 ## Case 23: 딸기 소프트아이스크림 초현실 사진  (@ZaraIrahh)
 
 **작성자**: @ZaraIrahh  ·  [원본 보기](https://x.com/ZaraIrahh/status/2047179916161212542)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case79/output.jpg" alt="Case 23 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -342,6 +434,10 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 **작성자**: @ZaraIrahh  ·  [원본 보기](https://x.com/ZaraIrahh/status/2047179669011616172)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case80/output.jpg" alt="Case 24 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -353,6 +449,10 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 ## Case 25: 초현실 시네마틱 DSLR 인물 사진  (@harboriis)
 
 **작성자**: @harboriis  ·  [원본 보기](https://x.com/harboriis/status/2047175250761433416)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/portrait_case81/output.jpg" alt="Case 25 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 

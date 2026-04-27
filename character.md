@@ -8,7 +8,7 @@ permalink: /character/
 # 캐릭터 디자인
 {: .no_toc }
 
-이 카테고리에는 **7개의 프롬프트 사례**가 있습니다.
+이 카테고리에는 **7개의 프롬프트 사례**가 있습니다. 각 케이스의 결과 이미지를 클릭하면 [원본 사이트](https://evolink.ai)로 이동합니다.
 
 ## 목차
 {: .no_toc .text-delta }
@@ -22,6 +22,10 @@ permalink: /character/
 
 **작성자**: @Thereallo1026  ·  [원본 보기](https://x.com/Thereallo1026/status/2044241997163311569)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg" alt="Case 1 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -33,6 +37,10 @@ Show me the attached image as a snapshot from an actual anime
 ## Case 2: Persona5 Character Reference Card  (@iamrednightS)
 
 **작성자**: @iamrednightS  ·  [원본 보기](https://x.com/iamrednightS/status/2045075682837836265)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" alt="Case 2 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -49,6 +57,10 @@ Show me the attached image as a snapshot from an actual anime
 ## Case 3: Gal Game Character Introduction Page  (@09lyco)
 
 **작성자**: @09lyco  ·  [원본 보기](https://x.com/09lyco/status/2045281845391323175)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg" alt="Case 3 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
@@ -72,6 +84,10 @@ Show me the attached image as a snapshot from an actual anime
 
 **작성자**: @Toshi_nyaruo_AI  ·  [원본 보기](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg" alt="Case 5 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -91,6 +107,10 @@ Show me the attached image as a snapshot from an actual anime
 
 **작성자**: @old_pgmrs_will  ·  [원본 보기](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" alt="Case 7 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -103,6 +123,10 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 **작성자**: @songguoxiansen  ·  [원본 보기](https://x.com/songguoxiansen/status/2046476566537080849)
 
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case8/output.jpg" alt="Case 8 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
+
 **프롬프트:**
 
 ```
@@ -114,6 +138,10 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 ## Case 9: Chaos Notes Hidden Face Character Art  (@loglogrog)
 
 **작성자**: @loglogrog  ·  [원본 보기](https://x.com/loglogrog/status/2046448773162033240)
+
+**결과 이미지:**
+
+<img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg" alt="Case 9 결과 이미지" style="max-width: 480px; width: 100%; height: auto; border-radius: 8px; margin: 8px 0;">
 
 **프롬프트:**
 
