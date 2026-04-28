@@ -1,70 +1,46 @@
 # ============================================
-#   GPT-Image-2 프롬프트 허브 - IT Tech 스타일
+#   GPT-Image-2 Hub
 # ============================================
 
 # 사이트 기본 정보
 title: "GPT-Image-2 Hub"
-description: "전문가 수준의 이미지 생성을 위한 큐레이션된 프롬프트 컬렉션 163선 - 인물, 포스터, 캐릭터, UI 디자인까지"
-tagline: "Professional AI Image Generation Prompts"
-
-# 깃허브 페이지 설정
+description: "전문가 수준의 이미지 생성을 위한 큐레이션된 프롬프트 컬렉션 163선"
 baseurl: "/gpt-image-2-prompts"
 url: "https://tradecyh-oss.github.io"
 
 # 테마 설정
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light  # 라이트모드가 기본, 다크모드는 버튼으로 전환
+color_scheme: light
 
-# 검색 기능 최적화
+# 검색 기능
 search_enabled: true
 search:
   heading_level: 2
   previews: 4
   preview_words_before: 8
   preview_words_after: 8
-  tokenizer_separator: /[\s\-\.]+/
   rel_url: true
   button: false
 
-# 네비게이션 설정
+# 외부 네비게이션 링크
 nav_external_links:
   - title: "원본 저장소"
     url: "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
-  - title: "Evolink AI"
-    url: "https://evolink.ai"
 
 # 페이지 편집 링크
 gh_edit_link: true
-gh_edit_link_text: "📝 GitHub에서 편집"
+gh_edit_link_text: "GitHub에서 편집"
 gh_edit_repository: "https://github.com/tradecyh-oss/gpt-image-2-prompts"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
-# 푸터 - IT 회사 스타일
-footer_content: '
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-    <div style="font-size: 13px; color: #6b7280;">
-      © 2026 GPT-Image-2 Hub. 원본 프롬프트의 저작권은 각 원작자에게 있습니다.
-    </div>
-    <div style="display: flex; gap: 16px; font-size: 13px;">
-      <a href="https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts" style="color: #3b82f6; text-decoration: none;">원본 저장소</a>
-      <a href="https://evolink.ai" style="color: #3b82f6; text-decoration: none;">Evolink AI</a>
-    </div>
-  </div>
-'
+# 푸터
+footer_content: '© 2026 GPT-Image-2 Hub. 원본 프롬프트의 저작권은 각 원작자에게 있습니다. <a href="https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts">원본 저장소</a>'
 
 # 플러그인
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# SEO 최적화
-logo: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%233b82f6'/><text x='50' y='65' font-family='system-ui' font-size='60' font-weight='600' fill='white' text-anchor='middle'>G</text></svg>"
-
-# 소셜 미디어 메타데이터
-twitter:
-  username: "your_twitter_username"  # 필요시 수정
-  card: summary_large_image
 
 # 처리 제외 파일
 exclude:
@@ -73,21 +49,3 @@ exclude:
   - node_modules
   - vendor
   - README.md
-  - "*.log"
-
-# 컬렉션 설정 (향후 확장용)
-collections_dir: collections
-
-# Markdown 설정
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  hard_wrap: false
-
-# 압축 설정 (성능 최적화)
-sass:
-  style: compressed
-
-# 개발 설정
-incremental: true
